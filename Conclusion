@@ -1,0 +1,1 @@
+Upload this code to your ESP32 and use a Bluetooth terminal app to send commands ('F' for forward, 'B' for backward, 'L' for left, 'R' for right, 'S' for stop) to the car.
