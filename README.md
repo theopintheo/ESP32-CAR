@@ -28,7 +28,7 @@ This project demonstrates how to use the `BluetoothSerial` library to send comma
 | 5V        | VCC         | Module power supply |
 | GND       | GND         | Common ground       |
 
-🔗 **Reference Diagram:** [ESP32 with L298N Motor Driver]([https://randomnerdtutorials.com/esp32-dc-motor-l298n-driver/](https://hackster.imgix.net/uploads/attachments/1835217/image_W1esAC6T1a.png?auto=compress%2Cformat&w=740&h=555&fit=max))
+🔗 **Reference Diagram:** [ESP32 with L298N Motor Driver]([https://hackster.imgix.net/uploads/attachments/1835217/image_W1esAC6T1a.png?auto=compress%2Cformat&w=740&h=555&fit=max])
 
 ---
 
